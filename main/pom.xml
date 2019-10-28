@@ -15,7 +15,7 @@
   <!-- Define the name of the ATG module directory for this build. -->
   <properties>
     <module.dir.name>main</module.dir.name>
-        <jackson-version>2.9.8</jackson-version>
+        <jackson-version>2.10.0</jackson-version>
 	<axis2.version>1.6.4</axis2.version>  
 	<log4j.version>2.7</log4j.version> 
   </properties>
